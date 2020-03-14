@@ -1,3 +1,4 @@
 # scientific-calculations-cs-studies
-Scientific calculations done with Julia
+Scientific calculations done with Julia.
+
 Includes detailed reports for each list.
